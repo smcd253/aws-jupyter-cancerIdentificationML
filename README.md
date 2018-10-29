@@ -1,2 +1,2 @@
-# aws-jupyter-cancerIdentificationML
-An implementation of various Machine Learning algorithms on an AWS jupyter notebook and EC2 instance to identify cancer types using miRNA data.
+# GDC Lab 10
+To run, put the csv files in the same directory as the jupyter notebook pwd. 
